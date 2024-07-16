@@ -1,4 +1,4 @@
-module github.com/nhahvx/go-pkg
+module github.com/nhahvx/go_pkg
 
 go 1.22.2
 
